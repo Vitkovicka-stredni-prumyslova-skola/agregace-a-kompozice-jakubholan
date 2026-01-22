@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/kapcala/.nuget/packages/": {}
+    "/Users/kubaholan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kapcala/Library/CloudStorage/OneDrive-Vítkovickástředníprůmyslováškola/Dokumenty/Programování/OPR-IT3-2025/Agregace a kompozice/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/kapcala/Library/CloudStorage/OneDrive-Vítkovickástředníprůmyslováškola/Dokumenty/Programování/OPR-IT3-2025/Agregace a kompozice/ConsoleApp1/ConsoleApp1.csproj",
-      "packagesPath": "/Users/kapcala/.nuget/packages/",
-      "outputPath": "/Users/kapcala/Library/CloudStorage/OneDrive-Vítkovickástředníprůmyslováškola/Dokumenty/Programování/OPR-IT3-2025/Agregace a kompozice/ConsoleApp1/obj/",
+      "projectPath": "/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/ConsoleApp1.csproj",
+      "packagesPath": "/Users/kubaholan/.nuget/packages/",
+      "outputPath": "/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kapcala/.nuget/NuGet/NuGet.Config"
+        "/Users/kubaholan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
