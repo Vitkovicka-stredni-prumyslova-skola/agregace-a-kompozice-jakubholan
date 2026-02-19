@@ -1,0 +1,5 @@
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
