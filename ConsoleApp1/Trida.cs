@@ -52,7 +52,9 @@ public class Trida
             }
         
         for(int i = 0; i < Studenti.Count; i++)
-        {Console.WriteLine($"{i + 1}. {Studenti [1]}")}
+        {
+            Console.WriteLine($"{i + 1}. {Studenti[i]}");
+        }
     }
 }
 }

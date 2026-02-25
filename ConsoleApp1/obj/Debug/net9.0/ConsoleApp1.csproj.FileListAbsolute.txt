@@ -3,3 +3,13 @@
 /Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
 /Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
 /Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/kubaholan/Documents/GitHub/agregace-a-kompozice-jakubholan/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
